@@ -6,6 +6,9 @@
 - The problem we are trying to solve is to use Naive Bayes Prediction to predict a feature out of seven features we track for approximately 400 civilizations.
 
 # Approach and Description of the Software
+## Polities
+![image](https://github.com/user-attachments/assets/94154af2-1bde-4ee7-b8be-ffcc2c7d925b)
+![image](https://github.com/user-attachments/assets/9659788e-d40d-482f-9707-958f756513c8)
 ## Power Query in Excel to Transform the Table
 ![image](https://github.com/user-attachments/assets/bf585fc0-45f0-4f22-9703-4ad1ad7a6cdc)
 ## Converting to JSON
