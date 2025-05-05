@@ -3,7 +3,7 @@
 - Alfred Chen
 
 # Problem Statement
-- The problem we are trying to solve is to use Naive Bayes Prediction in the 
+- The problem we are trying to solve is to use Naive Bayes Prediction to predict a feature out of seven features we track for approximately 400 civilizations.
 
 # Approach and Description of the Software
 ## Power Query in Excel to Transform the Table
@@ -23,6 +23,9 @@
 ## Creating an Expo Project for the frontend
 ### Returning the Results
 ![image](https://github.com/user-attachments/assets/8f7622bb-6301-4858-a58e-afd08f62ce64)
+### Frontend
+![image](https://github.com/user-attachments/assets/7cfb5b06-97cb-4a38-97f9-179059647fa0)
+
 
 # Evaluation
 - Fairly simple: We tried the script against Homework 9 Question 2
