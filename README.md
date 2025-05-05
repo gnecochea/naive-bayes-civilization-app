@@ -7,6 +7,7 @@
 
 # Approach and Description of the Software
 ## Polities
+### Comparison of Example to Civilization Dataset
 ![image](https://github.com/user-attachments/assets/94154af2-1bde-4ee7-b8be-ffcc2c7d925b)
 ![image](https://github.com/user-attachments/assets/9659788e-d40d-482f-9707-958f756513c8)
 ## Power Query in Excel to Transform the Table
