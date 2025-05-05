@@ -35,6 +35,7 @@
 - Fairly simple: We tried the script against Homework 9 Question 2
 - Other than checking its mathematical correctness, we could have created a test-train split of the data
   - This was the biggest gap in our project
+  - We ran out of time because the data trasnformation process itself was very difficult
 
 # Conclusion and Future Work
 - Choosing features is very difficult, as is transforming data
