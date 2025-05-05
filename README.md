@@ -3,7 +3,7 @@
 - Alfred Chen
 
 # Problem Statement
-- The problem we are trying to solve is to use Naive Bayes Prediction to predict a feature out of seven features we track for approximately 400 civilizations.
+- The problem we are trying to solve is to use Naive Bayes Prediction to predict any feature out of seven features we track for approximately 400 civilizations.
 
 # Approach and Description of the Software
 ## Polities
