@@ -33,10 +33,15 @@
 
 # Evaluation
 - Fairly simple: We tried the script against Homework 9 Question 2
+- Other than checking its mathematical correctness, we could have created a test-train split of the data
+  - This was the biggest gap in our project
 
 # Conclusion and Future Work
 - Choosing features is very difficult, as is transforming data
   - Some features we wished to include were unfeasible
+- It would have been better to have a train-test split of the data
+  - This was the most important think lacking in our project
+  - It is a way to objectively test a model
 - The frontend portion took the least amount of time
 
 # References
