@@ -25,7 +25,7 @@
 ![image](https://github.com/user-attachments/assets/8f7622bb-6301-4858-a58e-afd08f62ce64)
 ### Frontend
 ![image](https://github.com/user-attachments/assets/7cfb5b06-97cb-4a38-97f9-179059647fa0)
-
+![image](https://github.com/user-attachments/assets/40db0245-0f37-4aa4-b047-b4aa6e91514a)
 
 # Evaluation
 - Fairly simple: We tried the script against Homework 9 Question 2
