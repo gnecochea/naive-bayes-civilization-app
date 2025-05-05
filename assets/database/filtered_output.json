@@ -1,0 +1,2658 @@
+[
+  {
+    "Polity": "AfDurrn",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "AfGhurd",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "AfGrBct",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "AfGrBct",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "AfHepht",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "AfHepht",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "AfKidar",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "AfKushn",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "AfKushn",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "AfTochr",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "Ashanti",
+    "NGA": "Ghanaian Coast",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "British colonial period and early independent India",
+    "NGA": "Garo Hills",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "Brooke Raj and Colonial Period",
+    "NGA": "Kapuasi Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "CnChuSA",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "CnEHan*",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "CnErJin",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "CnErlig",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "CnErlit",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "CnHChin",
+    "NGA": "Southern China Hills",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "CnNSong",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "8"
+  },
+  {
+    "Polity": "CnNWei*",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "CnQingE",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "10"
+  },
+  {
+    "Polity": "CnQingE",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "10"
+  },
+  {
+    "Polity": "CnQingL",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "10"
+  },
+  {
+    "Polity": "CnQingL",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "10"
+  },
+  {
+    "Polity": "CnShang",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "CnSui**",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "CnTangE",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "8"
+  },
+  {
+    "Polity": "CnTangE",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "8"
+  },
+  {
+    "Polity": "CnTangL",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "CnWHan*",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "CnWZhou",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "CnYuan*",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "CnYuan*",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "CoTairo",
+    "NGA": "North Colombia",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "Colonial Lowland Andes",
+    "NGA": "Lowland Andes",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "Early Chinese",
+    "NGA": "Southern China Hills",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "EcJivaE",
+    "NGA": "Lowland Andes",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "EcJivaL",
+    "NGA": "Lowland Andes",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "Ecuadorian",
+    "NGA": "Lowland Andes",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "EgAyyub",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "EgBadar",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "EgDyn1*",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "EgDyn2*",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "EgIntOc",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "EgMamBh",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "EgMamBu",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "EgMamCP",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "EgMidKg",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "EgNKRam",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "EgNKThu",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "EgNaqa1",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "EgNaqa2",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "EgNaqa3",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "EgOldK1",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "EgOldK2",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "EgPtol1",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "EgPtol2",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "EgRegns",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "EgSaite",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "EgThebH",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "EgThebL",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "EgTulIk",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "EsHabsb",
+    "NGA": "Cuzco",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "10",
+    "Hierarchical Complexity:Military levels": "13"
+  },
+  {
+    "Polity": "FmTrukE",
+    "NGA": "Chuuk Islands",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "FmTrukL",
+    "NGA": "Chuuk Islands",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "FrBurbE",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "7",
+    "Hierarchical Complexity:Military levels": "10"
+  },
+  {
+    "Polity": "FrBurbL",
+    "NGA": "Cahokia",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "12"
+  },
+  {
+    "Polity": "FrBurbL",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "12"
+  },
+  {
+    "Polity": "FrCaptE",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "FrCaptL",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "FrCarlE",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "FrCarlL",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "FrHallA",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "FrHallB",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "FrHallC",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "FrHallD",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "FrMervE",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "FrMervL",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "FrMervM",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "FrTeneA",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "suspected unknown",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "FrTeneB",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "suspected unknown",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "FrTeneC",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "FrValoE",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "FrValoL",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "7",
+    "Hierarchical Complexity:Military levels": "10"
+  },
+  {
+    "Polity": "GhAshnE",
+    "NGA": "Ghanaian Coast",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "GhAshnL",
+    "NGA": "Ghanaian Coast",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "GrMaced",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "GrMaced",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "GrMaced",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "GrMaced",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "GrMaced",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "Hawaii3",
+    "NGA": "Big Island Hawaii",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "Iceland Commonwealth Period (930-1262 CE)",
+    "NGA": "Iceland",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "IdBrokE",
+    "NGA": "Kapuasi Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "IdBrokL",
+    "NGA": "Kapuasi Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "IdKedir",
+    "NGA": "Central Java",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "IdMajap",
+    "NGA": "Central Java",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "IdMatrm",
+    "NGA": "Central Java",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "IdMedng",
+    "NGA": "Central Java",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "IdSingh",
+    "NGA": "Central Java",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "InChaBd",
+    "NGA": "Deccan",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "InChaKl",
+    "NGA": "Deccan",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "InDecIA",
+    "NGA": "Deccan",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "InDecNL",
+    "NGA": "Deccan",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "0"
+  },
+  {
+    "Polity": "InDelh*",
+    "NGA": "Deccan",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "9",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "8"
+  },
+  {
+    "Polity": "InDelh*",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "9",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "8"
+  },
+  {
+    "Polity": "InGaroE",
+    "NGA": "Garo Hills",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "InGaroL",
+    "NGA": "Garo Hills",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "InHoysa",
+    "NGA": "Deccan",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "InKadam",
+    "NGA": "Deccan",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "InKampi",
+    "NGA": "Deccan",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "InMaury",
+    "NGA": "Deccan",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "InMaury",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "InMugl*",
+    "NGA": "Deccan",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "InMugl*",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "InRasht",
+    "NGA": "Deccan",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "7",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "InSataL",
+    "NGA": "Deccan",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "InVakat",
+    "NGA": "Deccan",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "InVijay",
+    "NGA": "Deccan",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "IqAbbs1",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IqAbbs1",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IqAbbs1",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IqAbbs1",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IqAbbs2",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "IqAkkad",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "IqNAssr",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "IqUrIII",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IrAchae",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "IrAchae",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "IrAchae",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "IrAchae",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "IrAchae",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "IrAkKoy",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IrArcha",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "IrAwanE",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "IrBuyid",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "8"
+  },
+  {
+    "Polity": "IrForma",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "0",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "IrIlkhn",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IrIlkhn",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IrIlkhn",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IrKhzE*",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "IrKhzEM",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "IrKhzL*",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "IrKhzM*",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "IrMElm1",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "IrMElm2",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "IrMElm3",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "IrPart1",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IrPart1",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IrPart2",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IrPart2",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IrPrCer",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "0",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "IrSafvd",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IrSasn1",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "IrSasn1",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "IrSasn1",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "IrSasn2",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "IrSasn2",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "IrSasn2",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "IrSasn2",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "IrSasn2",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "IrSeleu",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "IrSeleu",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "IrSeleu",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "IrSeljq",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IrSeljq",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IrSeljq",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "IrShima",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "IrSukkE",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "IrSukkL",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "IrSusa1",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "IrSusa2",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "IrSusa3",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "Iroquois Early Colonial",
+    "NGA": "Finger Lakes",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "IsCommw",
+    "NGA": "Iceland",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "ItLatBA",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "ItLatCA",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "ItLatIA",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "ItLombr",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "ItOstrg",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "ItPapEM",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "ItPapHM",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "ItPapM1",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "ItPapM2",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "ItPapRn",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "ItRav**",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "ItRomER",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "ItRomLR",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "ItRomLR",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "ItRomLR",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "ItRomMR",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "ItRomPr",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "ItRomPr",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "ItRomPr",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "ItRomPr",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "ItRomRg",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "ItRomWe",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "8",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "ItStPet",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "JpAshik",
+    "NGA": "Kansai",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "JpAsuka",
+    "NGA": "Kansai",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "JpAzMom",
+    "NGA": "Kansai",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "JpHeian",
+    "NGA": "Kansai",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "JpKamak",
+    "NGA": "Kansai",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "JpKofun",
+    "NGA": "Kansai",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "JpSengk",
+    "NGA": "Kansai",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "JpTokgw",
+    "NGA": "Kansai",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "JpYayoi",
+    "NGA": "Kansai",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "KgKarKh",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "KgWTurk",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "KhAngkC",
+    "NGA": "Cambodian Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "KhAngkE",
+    "NGA": "Cambodian Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "KhAngkL",
+    "NGA": "Cambodian Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "KhCambd",
+    "NGA": "Cambodian Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "KhChenl",
+    "NGA": "Cambodian Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "KhFunaE",
+    "NGA": "Cambodian Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "KhFunaL",
+    "NGA": "Cambodian Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "MaSaadi",
+    "NGA": "Niger Inland Delta",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "MlBaman",
+    "NGA": "Niger Inland Delta",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "MlMali*",
+    "NGA": "Niger Inland Delta",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "MlSong2",
+    "NGA": "Niger Inland Delta",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "MnETurk",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "MnKhit1",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "MnKhit2",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "MnKhitn",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "MnMngKh",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "MnMngKh",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "MnMngKh",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "MnMngKh",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "MnMngKh",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "MnMongE",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "MnMongL",
+    "NGA": "Middle Yellow River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "MnMongL",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "MnRourn",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "MnTurk1",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "MnTurk1",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "MnTurk2",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "MnUigur",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "MnXianb",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "unknown",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "MnXngnE",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "MnXngnL",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "MnXngnM",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "MnZungh",
+    "NGA": "Orkhon Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "Modern Yemen",
+    "NGA": "Yemeni Coastal Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "MrWagdL",
+    "NGA": "Niger Inland Delta",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "MrWagdM",
+    "NGA": "Niger Inland Delta",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "MxAlb2*",
+    "NGA": "Valley of Oaxaca",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "MxAlb3B",
+    "NGA": "Valley of Oaxaca",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "MxAlb5*",
+    "NGA": "Valley of Oaxaca",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "MxAlbLP",
+    "NGA": "Valley of Oaxaca",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "MxTieLa",
+    "NGA": "Valley of Oaxaca",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "NorKing",
+    "NGA": "Iceland",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "Norway Kingdom",
+    "NGA": "Iceland",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "Oro Early Colonial",
+    "NGA": "Oro PNG",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "Oro Pre-Colonial",
+    "NGA": "Oro PNG",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "Ottoman Yemen",
+    "NGA": "Yemeni Coastal Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "PeCuzL2",
+    "NGA": "Cuzco",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "PeInca*",
+    "NGA": "Cuzco",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "Peru Cuzco Valley Killke (1250-1400)",
+    "NGA": "Cuzco",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "PgOrokE",
+    "NGA": "Oro PNG",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "PgOrokL",
+    "NGA": "Oro PNG",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "PkAcerN",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "0",
+    "Hierarchical Complexity:Religious levels": "0",
+    "Hierarchical Complexity:Military levels": "0"
+  },
+  {
+    "Polity": "PkCeraN",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "0",
+    "Hierarchical Complexity:Religious levels": "0",
+    "Hierarchical Complexity:Military levels": "0"
+  },
+  {
+    "Polity": "PkSind1",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "PkSind2",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "Pre-Brooke Raj Period",
+    "NGA": "Kapuasi Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "Pre-Colonial Finger Lakes",
+    "NGA": "Finger Lakes",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "Pre-colonial Garo Hills",
+    "NGA": "Garo Hills",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "PreAshanti",
+    "NGA": "Ghanaian Coast",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "RuYakuL",
+    "NGA": "Lena River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "Russia Early Russian",
+    "NGA": "Lena River Valley",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "SdKusht",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "SyCalUm",
+    "NGA": "Kachi Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "SyCalUm",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "SyCalUm",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "SyCalUm",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "ThAyuth",
+    "NGA": "Cambodian Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "6",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "TnFatim",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "TrBrzL2",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "7"
+  },
+  {
+    "Polity": "TrBrzMD",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "TrByzM1",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "7",
+    "Hierarchical Complexity:Military levels": "8"
+  },
+  {
+    "Polity": "TrByzM1",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "7",
+    "Hierarchical Complexity:Military levels": "8"
+  },
+  {
+    "Polity": "TrByzM2",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "7",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "TrByzM3",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "7",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "TrCappL",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "TrClcER",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "TrClcLT",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "TrERom*",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "7",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "TrERom*",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "7",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "TrERom*",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "7",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "TrHatNK",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "TrHatOK",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "TrLysim",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "TrNHitt",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "TrOttm1",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "TrOttm2",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "TrOttm3",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "9",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "TrOttm3",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "9",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "TrOttm4",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "9",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "TrOttm4",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "9",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "9"
+  },
+  {
+    "Polity": "TrPhryg",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "TrPont*",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "TrRomDm",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "TrRomDm",
+    "NGA": "Latium",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "TrRomDm",
+    "NGA": "Paris Basin",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "TrRomDm",
+    "NGA": "Upper Egypt",
+    "Hierarchical Complexity:Settlement hierarchy": "7",
+    "Hierarchical Complexity:Administrative levels": "8",
+    "Hierarchical Complexity:Religious levels": "5",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "TrRum**",
+    "NGA": "Konya Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "4",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "USCahoE",
+    "NGA": "Cahokia",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "USCahoL",
+    "NGA": "Cahokia",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "USIllin",
+    "NGA": "Cahokia",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "USKameh",
+    "NGA": "Big Island Hawaii",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "USMisEW",
+    "NGA": "Cahokia",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "USMisME",
+    "NGA": "Cahokia",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "USMisMW",
+    "NGA": "Cahokia",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "USMisMu",
+    "NGA": "Cahokia",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "USMisPa",
+    "NGA": "Cahokia",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "USMisRo",
+    "NGA": "Cahokia",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "USMisSd",
+    "NGA": "Cahokia",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "2"
+  },
+  {
+    "Polity": "USMisSp",
+    "NGA": "Cahokia",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "USOneot",
+    "NGA": "Cahokia",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "UsIroqE",
+    "NGA": "Finger Lakes",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "UsIroqL",
+    "NGA": "Finger Lakes",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "UzChagt",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "4",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "UzJanid",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "5",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "2",
+    "Hierarchical Complexity:Military levels": "5"
+  },
+  {
+    "Polity": "UzKok01",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "1",
+    "Hierarchical Complexity:Administrative levels": "1",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "1"
+  },
+  {
+    "Polity": "UzSamnd",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "4",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "UzSogdi",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "UzTimur",
+    "NGA": "Sogdiana",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "UzTimur",
+    "NGA": "Susiana",
+    "Hierarchical Complexity:Settlement hierarchy": "6",
+    "Hierarchical Complexity:Administrative levels": "6",
+    "Hierarchical Complexity:Religious levels": "1",
+    "Hierarchical Complexity:Military levels": "6"
+  },
+  {
+    "Polity": "YeModrn",
+    "NGA": "Yemeni Coastal Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "5",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "4"
+  },
+  {
+    "Polity": "YeOttoL",
+    "NGA": "Yemeni Coastal Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "3",
+    "Hierarchical Complexity:Administrative levels": "2",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "3"
+  },
+  {
+    "Polity": "YeQasmi",
+    "NGA": "Yemeni Coastal Plain",
+    "Hierarchical Complexity:Settlement hierarchy": "2",
+    "Hierarchical Complexity:Administrative levels": "3",
+    "Hierarchical Complexity:Religious levels": "3",
+    "Hierarchical Complexity:Military levels": "4"
+  }
+]
