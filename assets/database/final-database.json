@@ -1,0 +1,4592 @@
+[
+    {
+        "Polity": "AfDurrn",
+        "Time Period": "modern",
+        "Duration": "decades",
+        "NGA": "Kachi Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "AfGhazn",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "AfGhurd",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Kachi Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "AfGrBct",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Kachi Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "AfGrBct",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Sogdiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "AfHepht",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Kachi Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "AfHepht",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "AfKidar",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Sogdiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "AfKushn",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Kachi Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "AfKushn",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Sogdiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "AfTochr",
+        "Time Period": "postclassical_medieval",
+        "Duration": "millennia",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "Ashanti",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Ghanaian Coast",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "British colonial period and early independent India",
+        "Time Period": "modern",
+        "Duration": "decades",
+        "NGA": "Garo Hills",
+        "Settlement": "mid",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Brooke Raj and Colonial Period",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Kapuasi Basin",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Cn5Dyna",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "CnChuSA",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnChuWS",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnEHan*",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "CnErJin",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "CnErlig",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnErlit",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "low",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnHChin",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Southern China Hills",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "CnHQngL",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Southern China Hills",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "CnHanWS",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnImQin",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "CnJinSA",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnLngsh",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "low"
+    },
+    {
+        "Polity": "CnLrJin",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "CnMing*",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "high",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "CnNQi**",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "CnNSong",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "CnNWei*",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnNZhou",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "CnQiSA*",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnQiWS",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnQingE",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "CnQingE",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Orkhon Valley",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "CnQingL",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "CnQingL",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Orkhon Valley",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "CnSSong",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "CnShang",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnShu3*",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "CnSui**",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnTangE",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "CnTangE",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Orkhon Valley",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "CnTangL",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnWHan*",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "CnWWei*",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "CnWZhou",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnWei3*",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnWeiWS",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnWu3**",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "CnYngsh",
+        "Time Period": "prehistoric",
+        "Duration": "millennia",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "CnYuan*",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnYuan*",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Orkhon Valley",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnZhgSA",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "CnZhgWS",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnZhuSA",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CnZhuWS",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "CoNahua",
+        "Time Period": "early_modern",
+        "Duration": "millennia",
+        "NGA": "North Colombia",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "CoTairo",
+        "Time Period": "early_modern",
+        "Duration": "millennia",
+        "NGA": "North Colombia",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Colonial Lowland Andes",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Lowland Andes",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Early Chinese",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Southern China Hills",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Eastern Jin",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "EcJivaE",
+        "Time Period": "postclassical_medieval",
+        "Duration": "millennia",
+        "NGA": "Lowland Andes",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "EcJivaL",
+        "Time Period": "early_modern",
+        "Duration": "millennia",
+        "NGA": "Lowland Andes",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Ecuadorian",
+        "Time Period": "early_modern",
+        "Duration": "millennia",
+        "NGA": "Lowland Andes",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "EgAyyub",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "EgBadar",
+        "Time Period": "prehistoric",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "EgDyn1*",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "EgDyn2*",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "EgHermp",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Upper Egypt",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "EgIntOc",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "EgMamBh",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Upper Egypt",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "EgMamBu",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Upper Egypt",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "EgMamCP",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "EgMidKg",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "EgNKRam",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "EgNKThu",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "EgNaqa1",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Upper Egypt",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "EgNaqa2",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "EgNaqa3",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "EgOldK1",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "mid"
+    },
+    {
+        "Polity": "EgOldK2",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "mid"
+    },
+    {
+        "Polity": "EgPtol1",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "EgPtol2",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "EgRegns",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "EgSaite",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "EgThebH",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "EgThebL",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "EgTulIk",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "EsHabsb",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Cuzco",
+        "Settlement": "high",
+        "Admin": "mid",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "FmTrukE",
+        "Time Period": "early_modern",
+        "Duration": "millennia",
+        "NGA": "Chuuk Islands",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "FmTrukL",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Chuuk Islands",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "FrAtlBA",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Paris Basin",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "FrBeakr",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Paris Basin",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "FrBurbE",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "FrBurbL",
+        "Time Period": "early_modern",
+        "Duration": "decades",
+        "NGA": "Cahokia",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "FrBurbL",
+        "Time Period": "early_modern",
+        "Duration": "decades",
+        "NGA": "Paris Basin",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "FrCaptE",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "high",
+        "Military": "mid"
+    },
+    {
+        "Polity": "FrCaptL",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "high",
+        "Military": "mid"
+    },
+    {
+        "Polity": "FrCarlE",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Paris Basin",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "high",
+        "Military": "mid"
+    },
+    {
+        "Polity": "FrCarlL",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "high",
+        "Military": "mid"
+    },
+    {
+        "Polity": "FrHallA",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Paris Basin",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "FrHallB",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Paris Basin",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "FrHallC",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Paris Basin",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "FrHallD",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "FrMervE",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "FrMervL",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "FrMervM",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "FrTeneA",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "FrTeneB",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "mid",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "FrTeneC",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "mid",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "FrValoE",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "high",
+        "Military": "mid"
+    },
+    {
+        "Polity": "FrValoL",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "high",
+        "Admin": "mid",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "GhAshnE",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Ghanaian Coast",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "GhAshnL",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Ghanaian Coast",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "GrMaced",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Kachi Plain",
+        "Settlement": "mid",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "GrMaced",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Konya Plain",
+        "Settlement": "mid",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "GrMaced",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Sogdiana",
+        "Settlement": "mid",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "GrMaced",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "GrMaced",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "Hawaii1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Big Island Hawaii",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Hawaii2",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Big Island Hawaii",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Hawaii3",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Big Island Hawaii",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "Iceland Commonwealth Period (930-1262 CE)",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Iceland",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IdBrokE",
+        "Time Period": "modern",
+        "Duration": "decades",
+        "NGA": "Kapuasi Basin",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IdBrokL",
+        "Time Period": "modern",
+        "Duration": "decades",
+        "NGA": "Kapuasi Basin",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IdCJBun",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Central Java",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IdDemak",
+        "Time Period": "early_modern",
+        "Duration": "decades",
+        "NGA": "Central Java",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IdKahur",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Central Java",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "low"
+    },
+    {
+        "Polity": "IdKalin",
+        "Time Period": "early_modern",
+        "Duration": "decades",
+        "NGA": "Central Java",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IdKedir",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Central Java",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "low"
+    },
+    {
+        "Polity": "IdMajap",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Central Java",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IdMatrm",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Central Java",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IdMedng",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Central Java",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IdSingh",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Central Java",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "InChaBd",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Deccan",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InChaKl",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Deccan",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InDecIA",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Deccan",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InDecKg",
+        "Time Period": "postclassical_medieval",
+        "Duration": "millennia",
+        "NGA": "Deccan",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InDecNL",
+        "Time Period": "early_modern",
+        "Duration": "millennia",
+        "NGA": "Deccan",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "InDelh*",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Deccan",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InDelh*",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Kachi Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InGaroE",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Garo Hills",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InGaroL",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Garo Hills",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "InHoysa",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Deccan",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "InKadam",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Deccan",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InKalch",
+        "Time Period": "postclassical_medieval",
+        "Duration": "millennia",
+        "NGA": "Deccan",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "InKampi",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Deccan",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InMaury",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Deccan",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InMaury",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Kachi Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InMugl*",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Deccan",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InMugl*",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Kachi Plain",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InPallE",
+        "Time Period": "postclassical_medieval",
+        "Duration": "millennia",
+        "NGA": "Deccan",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InRasht",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Deccan",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InSataL",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Deccan",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InSeuna",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Deccan",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InVakat",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Deccan",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "InVijay",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Deccan",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IqAbbs1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Kachi Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IqAbbs1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Sogdiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "IqAbbs1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IqAbbs1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Upper Egypt",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IqAbbs2",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IqAkkad",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IqNAssr",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "low"
+    },
+    {
+        "Polity": "IqUrIII",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrAchae",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Kachi Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrAchae",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Konya Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrAchae",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrAchae",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrAchae",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrAkKoy",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrArcha",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrAwanE",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrBuyid",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrElmCP",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrElym1",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "IrElym2",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "IrForma",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "IrIlkhn",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Konya Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "IrIlkhn",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Sogdiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "IrIlkhn",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrJalay",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrKhzE*",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrKhzEM",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "IrKhzL*",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrKhzM*",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrMElm1",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrMElm2",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrMElm3",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrMedes",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrNElm1",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrNElm2",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrNElm3",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrPart1",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Kachi Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrPart1",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrPart2",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Sogdiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrPart2",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrPrCer",
+        "Time Period": "prehistoric",
+        "Duration": "millennia",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrQajar",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrSafvd",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrSasn1",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Kachi Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "IrSasn1",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Sogdiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "IrSasn1",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "IrSasn2",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Kachi Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "IrSasn2",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Konya Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "IrSasn2",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Sogdiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "IrSasn2",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "IrSasn2",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "IrSeleu",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Konya Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrSeleu",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Sogdiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrSeleu",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrSeljq",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Konya Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrSeljq",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Sogdiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrSeljq",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrShima",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrSukkE",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrSukkL",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "IrSusa1",
+        "Time Period": "prehistoric",
+        "Duration": "millennia",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrSusa2",
+        "Time Period": "prehistoric",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IrSusa3",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Iroquois Early Colonial",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Finger Lakes",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "IsCommw",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Iceland",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "ItBenLP",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Latium",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "ItLatBA",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Latium",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "ItLatCA",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Latium",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "ItLatIA",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Latium",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItLombr",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Latium",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItOstrg",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Latium",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItPapEM",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Latium",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "high",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItPapHM",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Latium",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItPapM1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Latium",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItPapM2",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Latium",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItPapRn",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Latium",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItRav**",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Latium",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItRomER",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Latium",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItRomLA",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Latium",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItRomLA",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItRomLR",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItRomLR",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Latium",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItRomLR",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItRomMR",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Latium",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItRomPr",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItRomPr",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Latium",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItRomPr",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Paris Basin",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItRomPr",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "ItRomRg",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Latium",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "ItRomWe",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Latium",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "ItStPet",
+        "Time Period": "modern",
+        "Duration": "millennia",
+        "NGA": "Latium",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "JpAshik",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Kansai",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "JpAsuka",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Kansai",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "JpAzMom",
+        "Time Period": "early_modern",
+        "Duration": "decades",
+        "NGA": "Kansai",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "JpHeian",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Kansai",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "JpJomo1",
+        "Time Period": "prehistoric",
+        "Duration": "millennia",
+        "NGA": "Kansai",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "JpJomo2",
+        "Time Period": "prehistoric",
+        "Duration": "millennia",
+        "NGA": "Kansai",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "JpJomo3",
+        "Time Period": "prehistoric",
+        "Duration": "millennia",
+        "NGA": "Kansai",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "JpJomo4",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Kansai",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "JpJomo5",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Kansai",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "JpJomo6",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Kansai",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "JpKamak",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Kansai",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "JpKemmu",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Kansai",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "JpKofun",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Kansai",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "JpNara*",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Kansai",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "JpSengk",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Kansai",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "JpTokgw",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Kansai",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "JpYayoi",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Kansai",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "KgKarKh",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "KgWTurk",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "KhAngkC",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cambodian Basin",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "KhAngkE",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Cambodian Basin",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "KhAngkL",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cambodian Basin",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "KhCambd",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cambodian Basin",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "KhChenl",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cambodian Basin",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "KhFunaE",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Cambodian Basin",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "KhFunaL",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cambodian Basin",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "KzAndro",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Late Qing",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Southern China Hills",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MaAlmor",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MaSaadi",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Mali Kingdom of Gao (1080-1236 CE)",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Mali Kingdom of Gao Za Dynasty (700-1080 CE)",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MlAzaw1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MlAzaw2",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MlAzaw3",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MlBaman",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MlJeJe1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MlJeJe2",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MlJeJe3",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MlJeJe4",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MlMali*",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MlMasin",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MlSegou",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MlSong1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MlSong2",
+        "Time Period": "early_modern",
+        "Duration": "decades",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MlSosso",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MlTmbk1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MlTmbk2",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MlTmbk3",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MlTmbk4",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MlToucl",
+        "Time Period": "modern",
+        "Duration": "decades",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MlTuarg",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MnETurk",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Orkhon Valley",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnKhit1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Orkhon Valley",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnKhit2",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Orkhon Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnKhitn",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Orkhon Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnMngKh",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Konya Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnMngKh",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnMngKh",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Orkhon Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnMngKh",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Sogdiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnMngKh",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnMongE",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Orkhon Valley",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnMongL",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Middle Yellow River Valley",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnMongL",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Orkhon Valley",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnRourn",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Orkhon Valley",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MnShiwe",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Orkhon Valley",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnTurk1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Orkhon Valley",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnTurk1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnTurk2",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Orkhon Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnUigur",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Orkhon Valley",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnXianb",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Orkhon Valley",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnXngnE",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Orkhon Valley",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnXngnL",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Orkhon Valley",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnXngnM",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Orkhon Valley",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MnZungh",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Orkhon Valley",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "Modern Yemen",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Yemeni Coastal Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MrWagdE",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MrWagdL",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "MrWagdM",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Niger Inland Delta",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MxAlb1E",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Valley of Oaxaca",
+        "Settlement": "mid",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MxAlb1L",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Valley of Oaxaca",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MxAlb2*",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Valley of Oaxaca",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MxAlb3A",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Valley of Oaxaca",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MxAlb3B",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Valley of Oaxaca",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MxAlb5*",
+        "Time Period": "early_modern",
+        "Duration": "millennia",
+        "NGA": "Valley of Oaxaca",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MxAlbEP",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Valley of Oaxaca",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MxAlbLP",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Valley of Oaxaca",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MxRosar",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Valley of Oaxaca",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MxSanGu",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Valley of Oaxaca",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "MxTieLa",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Valley of Oaxaca",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "low"
+    },
+    {
+        "Polity": "NorKing",
+        "Time Period": "postclassical_medieval",
+        "Duration": "millennia",
+        "NGA": "Iceland",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Norway Kingdom",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Iceland",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Oro Early Colonial",
+        "Time Period": "modern",
+        "Duration": "decades",
+        "NGA": "Oro PNG",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "Oro Pre-Colonial",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Oro PNG",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "Ottoman Yemen",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Yemeni Coastal Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "PeCuzE1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cuzco",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "PeCuzE2",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cuzco",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "PeCuzL1",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Cuzco",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "PeCuzL2",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Cuzco",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "PeCuzLF",
+        "Time Period": "early_modern",
+        "Duration": "decades",
+        "NGA": "Cuzco",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "PeInca*",
+        "Time Period": "early_modern",
+        "Duration": "decades",
+        "NGA": "Cuzco",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "PeWari*",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cuzco",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "Peru Cuzco Valley Killke (1000-1250)",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cuzco",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "Peru Cuzco Valley Killke (1250-1400)",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Cuzco",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Peru Cuzco chiefdom Middle Horizon (650-1000 CE)",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cuzco",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Peru Lucre Basin (1000-1250 CE)",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cuzco",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "Peru Lucre Basin (1300-1400 CE)",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Cuzco",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "PgOrokE",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Oro PNG",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "PgOrokL",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Oro PNG",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "PkAcerN",
+        "Time Period": "prehistoric",
+        "Duration": "millennia",
+        "NGA": "Kachi Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "PkCeraN",
+        "Time Period": "prehistoric",
+        "Duration": "millennia",
+        "NGA": "Kachi Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "PkChalc",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Kachi Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "PkIndGr",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Kachi Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "PkIndPr",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Kachi Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "PkPostU",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Kachi Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "PkPreUr",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Kachi Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "PkProto",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Kachi Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "PkSind1",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Kachi Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "PkSind2",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Kachi Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "PkUrbn1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "millennia",
+        "NGA": "Kachi Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "PkUrbn2",
+        "Time Period": "postclassical_medieval",
+        "Duration": "millennia",
+        "NGA": "Kachi Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Pre-Brooke Raj Period",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Kapuasi Basin",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Pre-Colonial Finger Lakes",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Finger Lakes",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "Pre-colonial Garo Hills",
+        "Time Period": "postclassical_medieval",
+        "Duration": "millennia",
+        "NGA": "Garo Hills",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "PreAshanti",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Ghanaian Coast",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "RuYakuE",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Lena River Valley",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "RuYakuL",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Lena River Valley",
+        "Settlement": "high",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "RuYakut",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Lena River Valley",
+        "Settlement": "high",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "Russia Early Russian",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Lena River Valley",
+        "Settlement": "high",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "Russia Pre-Russian period",
+        "Time Period": "early_modern",
+        "Duration": "millennia",
+        "NGA": "Lena River Valley",
+        "Settlement": "high",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "SdKusht",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Upper Egypt",
+        "Settlement": "high",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "SyCalUm",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Kachi Plain",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "SyCalUm",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Sogdiana",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "mid"
+    },
+    {
+        "Polity": "SyCalUm",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "SyCalUm",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Upper Egypt",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "ThAyuth",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Cambodian Basin",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "ThRattn",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Cambodian Basin",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "TjSaraz",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "TmKhwrz",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "TmKhwrz",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Susiana",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "TnFatim",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrBrzER",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Konya Plain",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrBrzL2",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Konya Plain",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrBrzMD",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Konya Plain",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrByzM1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Konya Plain",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrByzM1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "decades",
+        "NGA": "Upper Egypt",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrByzM2",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Konya Plain",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrByzM3",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Konya Plain",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrCappL",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "TrClcER",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "TrClcLT",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "TrERom*",
+        "Time Period": "postclassical_medieval",
+        "Duration": "millennia",
+        "NGA": "Konya Plain",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrERom*",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Latium",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrERom*",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "high",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrHatNK",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrHatOK",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrLydia",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrLysim",
+        "Time Period": "ancient",
+        "Duration": "decades",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "TrNHitt",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "TrNeoCR",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "TrNeoER",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "TrNeoLT",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "TrOttm1",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "TrOttm2",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Konya Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrOttm3",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Konya Plain",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrOttm3",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Upper Egypt",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrOttm4",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Konya Plain",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrOttm4",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrPergm",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Konya Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "TrPhryg",
+        "Time Period": "ancient",
+        "Duration": "millennia",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "TrPont*",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "TrRomDm",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Konya Plain",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrRomDm",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Latium",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrRomDm",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Paris Basin",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrRomDm",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Upper Egypt",
+        "Settlement": "high",
+        "Admin": "high",
+        "Religious": "mid",
+        "Military": "high"
+    },
+    {
+        "Polity": "TrRum**",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Konya Plain",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "TrTabal",
+        "Time Period": "ancient",
+        "Duration": "century",
+        "NGA": "Konya Plain",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "USCahoE",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cahokia",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "USCahoL",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cahokia",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "USHawai",
+        "Time Period": "modern",
+        "Duration": "decades",
+        "NGA": "Big Island Hawaii",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "USIllin",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cahokia",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "USKameh",
+        "Time Period": "modern",
+        "Duration": "decades",
+        "NGA": "Big Island Hawaii",
+        "Settlement": "low",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "USMisEW",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cahokia",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "USMisME",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cahokia",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "USMisMW",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cahokia",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "USMisMu",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cahokia",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "USMisPa",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cahokia",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "USMisRo",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cahokia",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "USMisSL",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cahokia",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "USMisSd",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cahokia",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "USMisSp",
+        "Time Period": "postclassical_medieval",
+        "Duration": "half_a_millennium",
+        "NGA": "Cahokia",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "USOneot",
+        "Time Period": "early_modern",
+        "Duration": "millennia",
+        "NGA": "Cahokia",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "UsIroqE",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Finger Lakes",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "UsIroqL",
+        "Time Period": "early_modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Finger Lakes",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "UzChagt",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "UzJanid",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "UzKhw01",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "UzKok01",
+        "Time Period": "early_modern",
+        "Duration": "decades",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "UzKok02",
+        "Time Period": "modern",
+        "Duration": "decades",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "UzSakas",
+        "Time Period": "ancient",
+        "Duration": "half_a_millennium",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "UzSamnd",
+        "Time Period": "postclassical_medieval",
+        "Duration": "century",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "UzShayb",
+        "Time Period": "early_modern",
+        "Duration": "decades",
+        "NGA": "Sogdiana",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "UzSogdi",
+        "Time Period": "postclassical_medieval",
+        "Duration": "millennia",
+        "NGA": "Sogdiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "UzTimur",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Sogdiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "UzTimur",
+        "Time Period": "early_modern",
+        "Duration": "century",
+        "NGA": "Susiana",
+        "Settlement": "mid",
+        "Admin": "mid",
+        "Religious": "mid",
+        "Military": "mid"
+    },
+    {
+        "Polity": "YeModrn",
+        "Time Period": "modern",
+        "Duration": "century",
+        "NGA": "Yemeni Coastal Plain",
+        "Settlement": "mid",
+        "Admin": "high",
+        "Religious": "low",
+        "Military": "mid"
+    },
+    {
+        "Polity": "YeOttoL",
+        "Time Period": "modern",
+        "Duration": "decades",
+        "NGA": "Yemeni Coastal Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    },
+    {
+        "Polity": "YeQasmi",
+        "Time Period": "modern",
+        "Duration": "half_a_millennium",
+        "NGA": "Yemeni Coastal Plain",
+        "Settlement": "low",
+        "Admin": "low",
+        "Religious": "low",
+        "Military": "low"
+    }
+]

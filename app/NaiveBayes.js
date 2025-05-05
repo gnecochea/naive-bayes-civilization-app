@@ -1,11 +1,13 @@
-import data from "@/assets/database/filtered_output.json";
+// import data from "@/assets/database/final-database.json";
 
-const userInput = {
-  "Hierarchical Complexity:Settlement hierarchy": "4",
-  "Hierarchical Complexity:Administrative levels": "5",
-  "Hierarchical Complexity:Religious levels": "3",
-  "Hierarchical Complexity:Military levels": "6",
-};
+// const userInput = {
+//   "Time Period": "modern",
+//   Duration: "decades",
+//   NGA: "Kachi Plain",
+//   Settlement: "mid",
+//   Admin: "mid",
+//   Religious: "low",
+// };
 
 // -----------------------------
 // 1️⃣ Detect target column
@@ -89,12 +91,7 @@ function calculateLikelihoods(data, targetCol, userInput) {
 // 4️⃣ Calculate joint probabilities
 // -----------------------------
 
-function calculateJointProbabilities(
-  priors,
-  likelihoods,
-  userInput,
-  targetCol
-) {
+function calculateJointProbabilities(priors, likelihoods, targetCol) {
   console.log("=== Joint Probabilities (before normalization) ===");
   const jointProbs = {};
 
@@ -125,7 +122,7 @@ function calculateJointProbabilities(
 // 5️⃣ Calculate posteriors
 // -----------------------------
 
-function calculatePosteriors(jointProbs, targetCol, userInput) {
+function calculatePosteriors(jointProbs, targetCol) {
   const totalJoint = Object.values(jointProbs).reduce(
     (acc, val) => acc + val,
     0
@@ -150,25 +147,20 @@ function calculatePosteriors(jointProbs, targetCol, userInput) {
   return predicted;
 }
 
-// -----------------------------
-// 6️⃣ Run the pipeline
-// -----------------------------
+// // -----------------------------
+// // 6️⃣ Run the pipeline
+// // -----------------------------
 
-const targetCol = detectTargetColumn(data, userInput);
-console.log(`🔍 Missing feature detected: ${targetCol} → Will predict this.\n`);
+// const targetCol = detectTargetColumn(data, userInput);
+// console.log(`🔍 Missing feature detected: ${targetCol} → Will predict this.\n`);
 
-const priors = calculatePriors(data, targetCol);
-const likelihoods = calculateLikelihoods(data, targetCol, userInput);
-const jointProbs = calculateJointProbabilities(
-  priors,
-  likelihoods,
-  userInput,
-  targetCol
-);
-const predicted = calculatePosteriors(jointProbs, targetCol, userInput);
+// const priors = calculatePriors(data, targetCol);
+// const likelihoods = calculateLikelihoods(data, targetCol, userInput);
+// const jointProbs = calculateJointProbabilities(priors, likelihoods, targetCol);
+// const predicted = calculatePosteriors(jointProbs, targetCol);
 
-console.log("=== Final Prediction ===");
-console.log(`Predicted ${targetCol} = ${predicted}`);
+// console.log("=== Final Prediction ===");
+// console.log(`Predicted ${targetCol} = ${predicted}`);
 
 export {
   detectTargetColumn,
