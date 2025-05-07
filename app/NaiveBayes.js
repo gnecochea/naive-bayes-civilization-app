@@ -110,7 +110,7 @@ function calculateJointProbabilities(priors, likelihoods, targetCol) {
     console.log(
       `P(${targetCol}=${outcome}, features) = ${prior.toFixed(
         4
-      )} * (${likelihoodsStr}) = ${joint.toFixed(5)}`
+      )} * (${likelihoodsStr}) = ${joint.toFixed(10)}`
     );
   });
 
@@ -135,7 +135,7 @@ function calculatePosteriors(jointProbs, targetCol) {
     const posterior = totalJoint > 0 ? joint / totalJoint : 0;
     posteriorProbs[outcome] = posterior;
     console.log(
-      `P(${targetCol}=${outcome} | features) = ${posterior.toFixed(3)}`
+      `P(${targetCol}=${outcome} | features) = ${posterior.toFixed(10)}`
     );
   });
 

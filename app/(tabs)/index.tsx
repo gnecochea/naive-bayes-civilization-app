@@ -1,4 +1,4 @@
-import { StyleSheet, TextInput, Text, Button, View } from "react-native";
+import { StyleSheet, Text, Button, View } from "react-native";
 import { Picker } from "@react-native-picker/picker";
 import { useState } from "react";
 import data from "@/assets/database/final-database.json";
@@ -14,6 +14,20 @@ import {
 import { ThemedText } from "@/components/ThemedText";
 
 export default function HomeScreen() {
+  const feature_dict = {
+    "Time Period": "The time period during which the civilization existed.",
+    Duration: "The length of time the civilization lasted",
+    NGA: "(Natural Geographic Area): Its rough spatial scale is 100 km × 100 km (+/- 50%). Examples: Latium, Upper Egypt, Middle Yellow River Valley.",
+    Settlement:
+      "The level of settlement density (low, mid: Akkadian Empire, high: Ming Dynasty): '(1) Large City (monumental structures, theatre, market, hospital, central government buildings) (2) City (market, theatre, regional government buildings) (3) Large Town (market, administrative buildings) ...'",
+    Admin:
+      "Administrative Level (low, mid: Macedonian Empire, high: Russian Empire Romanov Dynasty II): 'Administrative levels records the administrative levels of a polity... (1) the overall ruler, (2) provincial/regional governors, (3) district heads, ...'",
+    Religious:
+      "Religiosity Level (low, mid: Napoleonic France, high: Roman Empire Late Antiquity): 'Start with the head of the official cult (if present) coded as: level 1, and work down to the local priest.  '",
+    Military:
+      "Military Level (low, mid: Ptolemaic Kingdom II, high: Republic of Venice III): 'Start with the commander-in-chief coded as: level 1, and work down to the private.'",
+  };
+
   const options = {
     "Time Period": [
       "",
@@ -63,13 +77,13 @@ export default function HomeScreen() {
     Military: ["", "low", "mid", "high"],
   };
   const [inputs, setInputs] = useState({
-    "Time Period": "modern",
-    Duration: "decades",
-    NGA: "Kachi Plain",
-    Settlement: "mid",
-    Admin: "mid",
-    Religious: "low",
-    Military: "low",
+    "Time Period": "",
+    Duration: "",
+    NGA: "",
+    Settlement: "",
+    Admin: "",
+    Religious: "",
+    Military: "",
   });
 
   const [prediction, setPrediction] = useState<string | null>(null);
@@ -123,7 +137,10 @@ export default function HomeScreen() {
 
       {Object.keys(inputs).map((key) => (
         <View key={key} style={{ marginBottom: 12 }}>
-          <Text style={styles.resultText}>{key}:</Text>
+          <Text style={styles.resultText}>{key}</Text>
+          <Text style={styles.desciptionText}>
+            {feature_dict[key as keyof typeof feature_dict]}
+          </Text>
           <Picker
             selectedValue={inputs[key as keyof typeof inputs]}
             onValueChange={(value) => handleChange(key, value)}
@@ -180,5 +197,10 @@ const styles = StyleSheet.create({
   resultText: {
     color: "#000",
     fontSize: 16,
+    fontWeight: "bold",
+  },
+  desciptionText: {
+    color: "#000",
+    fontSize: 12,
   },
 });
