@@ -22,8 +22,8 @@ export default function HomeScreen() {
       "The level of settlement density (low, mid: Akkadian Empire, high: Ming Dynasty): '(1) Large City (monumental structures, theatre, market, hospital, central government buildings) (2) City (market, theatre, regional government buildings) (3) Large Town (market, administrative buildings) ...'",
     Admin:
       "Administrative Level (low, mid: Macedonian Empire, high: Russian Empire Romanov Dynasty II): 'Administrative levels records the administrative levels of a polity... (1) the overall ruler, (2) provincial/regional governors, (3) district heads, ...'",
-    Religious:
-      "Religiosity Level (low, mid: Napoleonic France, high: Roman Empire Late Antiquity): 'Start with the head of the official cult (if present) coded as: level 1, and work down to the local priest.  '",
+    // Religious:
+    //   "Religiosity Level (low, mid: Napoleonic France, high: Roman Empire Late Antiquity): 'Start with the head of the official cult (if present) coded as: level 1, and work down to the local priest.  '",
     Military:
       "Military Level (low, mid: Ptolemaic Kingdom II, high: Republic of Venice III): 'Start with the commander-in-chief coded as: level 1, and work down to the private.'",
   };
@@ -73,7 +73,7 @@ export default function HomeScreen() {
     ],
     Settlement: ["", "low", "mid", "high"],
     Admin: ["", "low", "mid", "high"],
-    Religious: ["", "low", "mid", "high"],
+    // Religious: ["", "low", "mid", "high"],
     Military: ["", "low", "mid", "high"],
   };
   const [inputs, setInputs] = useState({
@@ -82,7 +82,7 @@ export default function HomeScreen() {
     NGA: "",
     Settlement: "",
     Admin: "",
-    Religious: "",
+    // Religious: "",
     Military: "",
   });
 
@@ -95,20 +95,23 @@ export default function HomeScreen() {
 
   const handlePredict = () => {
     try {
-      // Find which field(s) are empty
-      const emptyFields = Object.keys(inputs).filter(
-        (key) => inputs[key as keyof typeof inputs].trim() === ""
-      );
-
-      if (emptyFields.length !== 1) {
-        setPrediction("Please leave exactly one of the seven fields empty.");
+      if (inputs["Duration"].trim() !== "") {
+        setPrediction(
+          "Please leave the 'Duration' field empty for prediction."
+        );
         return;
       }
 
-      // Create a copy excluding the empty field
-      const userInput = { ...inputs };
-      const missingField = emptyFields[0];
-      delete userInput[missingField as keyof typeof inputs];
+      const otherEmptyFields = Object.entries(inputs).filter(
+        ([key, value]) => key !== "Duration" && value.trim() === ""
+      );
+
+      if (otherEmptyFields.length > 0) {
+        setPrediction("Please fill in all fields except 'Duration'.");
+        return;
+      }
+
+      const { Duration, ...userInput } = inputs;
 
       const targetCol = detectTargetColumn(data, userInput);
       setTargetColumn(targetCol);
@@ -142,6 +145,7 @@ export default function HomeScreen() {
             {feature_dict[key as keyof typeof feature_dict]}
           </Text>
           <Picker
+            enabled={key !== "Duration"}
             selectedValue={inputs[key as keyof typeof inputs]}
             onValueChange={(value) => handleChange(key, value)}
             style={styles.picker}
@@ -149,7 +153,10 @@ export default function HomeScreen() {
             {options[key as keyof typeof options].map((option) => (
               <Picker.Item
                 key={option}
-                label={option || "(leave blank)"}
+                label={
+                  option ||
+                  (key === "Duration" ? "(auto-predicted)" : "(leave blank)")
+                }
                 value={option}
               />
             ))}
