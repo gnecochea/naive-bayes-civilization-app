@@ -14,11 +14,8 @@
 // -----------------------------
 
 function detectTargetColumn(data, userInput) {
-  // NOTE: removing "Polity" and "Religious" from the set of features
   const allFeatures = new Set(
-    Object.keys(data[0]).filter(
-      (key) => key !== "Polity" && key !== "Religious"
-    )
+    Object.keys(data[0]).filter((key) => key !== "Polity")
   );
   const userProvided = new Set(Object.keys(userInput));
   const missing = [...allFeatures].filter((x) => !userProvided.has(x));
@@ -36,7 +33,7 @@ function calculatePriors(data, targetCol) {
   const total = data.length;
   const priors = {};
 
-  console.log("=== Prior Probabilities ===");
+  // console.log("=== Prior Probabilities ===");
   const counts = {};
   data.forEach((row) => {
     const value = row[targetCol];
@@ -45,14 +42,14 @@ function calculatePriors(data, targetCol) {
 
   Object.entries(counts).forEach(([outcome, count]) => {
     priors[outcome] = count / total;
-    console.log(
-      `P(${targetCol}=${outcome}) = ${count}/${total} = ${priors[
-        outcome
-      ].toFixed(2)}`
-    );
+    // console.log(
+    //   `P(${targetCol}=${outcome}) = ${count}/${total} = ${priors[
+    //     outcome
+    //   ].toFixed(2)}`
+    // );
   });
 
-  console.log();
+  // console.log();
   return priors;
 }
 
@@ -61,7 +58,7 @@ function calculatePriors(data, targetCol) {
 // -----------------------------
 
 function calculateLikelihoods(data, targetCol, userInput) {
-  console.log("=== Conditional Probabilities ===");
+  // console.log("=== Conditional Probabilities ===");
   const outcomes = [...new Set(data.map((row) => row[targetCol]))];
   const likelihoods = {};
 
@@ -78,15 +75,15 @@ function calculateLikelihoods(data, targetCol, userInput) {
       const prob = subset.length > 0 ? countMatch / subset.length : 0;
       likelihoods[outcome][feature] = prob;
 
-      console.log(
-        `P(${feature}=${value}|${targetCol}=${outcome}) = ${countMatch}/${
-          subset.length
-        } = ${prob.toFixed(3)}`
-      );
+      // console.log(
+      //   `P(${feature}=${value}|${targetCol}=${outcome}) = ${countMatch}/${
+      //     subset.length
+      //   } = ${prob.toFixed(3)}`
+      // );
     });
   });
 
-  console.log();
+  // console.log();
   return likelihoods;
 }
 
@@ -95,7 +92,7 @@ function calculateLikelihoods(data, targetCol, userInput) {
 // -----------------------------
 
 function calculateJointProbabilities(priors, likelihoods, targetCol) {
-  console.log("=== Joint Probabilities (before normalization) ===");
+  // console.log("=== Joint Probabilities (before normalization) ===");
   const jointProbs = {};
 
   Object.entries(priors).forEach(([outcome, prior]) => {
@@ -110,14 +107,14 @@ function calculateJointProbabilities(priors, likelihoods, targetCol) {
       .map((val) => val.toFixed(3))
       .join(" * ");
 
-    console.log(
-      `P(${targetCol}=${outcome}, features) = ${prior.toFixed(
-        4
-      )} * (${likelihoodsStr}) = ${joint.toFixed(10)}`
-    );
+    // console.log(
+    //   `P(${targetCol}=${outcome}, features) = ${prior.toFixed(
+    //     4
+    //   )} * (${likelihoodsStr}) = ${joint.toFixed(5)}`
+    // );
   });
 
-  console.log();
+  // console.log();
   return jointProbs;
 }
 
@@ -132,20 +129,20 @@ function calculatePosteriors(jointProbs, targetCol) {
   );
   const posteriorProbs = {};
 
-  console.log("=== Posterior Probabilities (after normalization) ===");
+  // console.log("=== Posterior Probabilities (after normalization) ===");
 
   Object.entries(jointProbs).forEach(([outcome, joint]) => {
     const posterior = totalJoint > 0 ? joint / totalJoint : 0;
     posteriorProbs[outcome] = posterior;
-    console.log(
-      `P(${targetCol}=${outcome} | features) = ${posterior.toFixed(10)}`
-    );
+    // console.log(
+    //   `P(${targetCol}=${outcome} | features) = ${posterior.toFixed(3)}`
+    // );
   });
 
   const predicted = Object.entries(posteriorProbs).reduce((a, b) =>
     a[1] > b[1] ? a : b
   )[0];
-  console.log(`\n✅ Prediction: ${targetCol} = ${predicted}\n`);
+  // console.log(`\n✅ Prediction: ${targetCol} = ${predicted}\n`);
 
   return predicted;
 }
@@ -165,7 +162,7 @@ function calculatePosteriors(jointProbs, targetCol) {
 // console.log("=== Final Prediction ===");
 // console.log(`Predicted ${targetCol} = ${predicted}`);
 
-export {
+module.exports = {
   detectTargetColumn,
   calculatePriors,
   calculateLikelihoods,
