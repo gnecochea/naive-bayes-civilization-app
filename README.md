@@ -6,9 +6,10 @@
 - README.md
 - Evaluation folder
 ![image](https://github.com/user-attachments/assets/0300544a-359b-42fd-a655-aebb0dcae811)
-- NaiveBayes\app\(tabs)\index.tsx
-- NaiveBayes\app\NaiveBayes.js
-- NaiveBayes\assets\database\final-database.json
+- frontend: NaiveBayes\app\(tabs)\index.tsx
+- naive bayes pipeline: NaiveBayes\app\NaiveBayes.js
+- dataset used for naive bayes: NaiveBayes\assets\database\final-database.json
+- original dataset: NaiveBayes\assets\database\sc_dataset.12.2017.xlsx
 
 # Problem Statement
 - The problem we are trying to solve is to use Naive Bayes Prediction to predict any feature out of seven features we track for approximately 400 civilizations.
