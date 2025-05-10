@@ -2,6 +2,14 @@
 - Gustavo Necochea
 - Alfred Chen
 
+# Important Files
+- README.md
+- Evaluation folder
+![image](https://github.com/user-attachments/assets/0300544a-359b-42fd-a655-aebb0dcae811)
+- NaiveBayes\app\(tabs)\index.tsx
+- NaiveBayes\app\NaiveBayes.js
+- NaiveBayes\assets\database\final-database.json
+
 # Problem Statement
 - The problem we are trying to solve is to use Naive Bayes Prediction to predict any feature out of seven features we track for approximately 400 civilizations.
 
@@ -28,18 +36,25 @@
 ### Returning the Results
 ![image](https://github.com/user-attachments/assets/8f7622bb-6301-4858-a58e-afd08f62ce64)
 ### Frontend
-![image](https://github.com/user-attachments/assets/7cfb5b06-97cb-4a38-97f9-179059647fa0)
-![image](https://github.com/user-attachments/assets/40db0245-0f37-4aa4-b047-b4aa6e91514a)
+![image](https://github.com/user-attachments/assets/5c153cac-f360-49b2-a464-d8f81b162174)
+
 
 # Evaluation
-- Fairly simple: We tried the script against Homework 9 Question 2
-- Other than checking its mathematical correctness, we could have created a test-train split of the data
-  - This was the biggest gap in our project
-  - We ran out of time because the data trasnformation process itself was very difficult
+- We added an evaluation function that takes out one feature at a time
+- We end up with an average of ~35-45% when we take out a feature, which is better than chance: 20%
+  - It seems that a lot of the features ARE dependent, as taking out one or another give similar precisions
+  - Ultimately, more than one feature at a time would need to be taken out to determine which are redundant
+![image](https://github.com/user-attachments/assets/e82e5988-37a3-46dd-9127-37fd6017393a)
 
 # Conclusion and Future Work
+- Now we have a Naive Bayes Pipeline and Evaluator we can use in future work
+- The frontend can be improved as well
+- The coding part is very boiler-plate, hence the significant amount of LLM-derived code
+  - There were dozens of tweaks, but even those tweaks were usually subsequently refactored for the sake of clarity
+  - A lot more time was spent on PowerQuery and then on merging values like "start date" and "end date" into "Duration" and "Time Period"
 - Choosing features is very difficult, as is transforming data
   - Some features we wished to include were unfeasible
+  - There were 90+ features for each of the 400 polities
 - It would have been better to have a train-test split of the data
   - This was the most important think lacking in our project
   - It is a way to objectively test a model
@@ -47,5 +62,8 @@
 
 # References
 - Data retrieved from Seshat: Global History Databank. Available at: http://seshatdatabank.info/
+- Turchin, P., R. Brennan, T. E. Currie, K. Feeney, P. François, […] H. Whitehouse. 2015. “Seshat: The Global History Databank.” Cliodynamics 6(1): 77–107. https://doi.org/10.21237/C7clio6127917.
+- Turchin, P., T. E. Currie, H. Whitehouse, P. François, K. Feeney,  […] C. Spencer. 2017. “Quantitative historical analysis uncovers a single dimension of complexity that structures global variation in human social organization.” PNAS. http://www.pnas.org/content/early/2017/12/20/1708800115.full.
 - CPSC481_Lecture_20_S25 for reviewing the topic
 - Homework 9 Question 2 for testing
+- LLMs used for much of the code templates
